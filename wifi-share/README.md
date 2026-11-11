@@ -31,11 +31,3 @@ Android enforces strict security boundaries around system tethering:
 
 ---
 
-## Building an APK Using Only an Android Phone (GitHub Actions)
-
-1. Export/push this project from Google AI Studio to a GitHub repository.
-2. Open your repository in your phone's browser (`github.com/<you>/<repo>`).
-3. Tap the **Actions** tab.
-4. Select **Build WiFi Share Debug APK** and tap **Run workflow** (or push any commit to `main`).
-5. Once the workflow shows a green check mark, scroll down to **Artifacts** and tap **`wifi-share-debug-apk`** to download the ZIP containing `app-debug.apk`.
-6. Unzip and install `app-debug.apk` on your Android 13+ phone.
