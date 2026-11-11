@@ -1,0 +1,6 @@
+{
+  "name": "WiFi Share",
+  "description": "Native Android 13+ Wi-Fi sharing & relay utility with LocalOnlyHotspot, Wi-Fi Direct, STA+AP compatibility diagnostics, QR pairing, and strict Wi-Fi-only cellular guard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
